@@ -1,5 +1,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrcode2008)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrcode2008≠&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mrcode2008" /></p>
 <!--
 **mrcode2008/mrcode2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
